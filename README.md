@@ -5,23 +5,23 @@ Submitted by: **Claudia Varona**
 
 This web app: Welcome to Comunity, your dedicated resource board for diving into the world of software engineering. Our platform is crafted to empower learners at all stages, from beginners to advanced developers, by providing a curated list of educational resources, tutorials, and community events.
 
-Time spent: **X** hours spent in total
+Time spent: 10 hours spent in total
 
 ## Required Features
 
 The following **required** functionality is completed:
 
-- [ ] **There is a unique theme for events or resources relevant to a specific community**
-- [ ] **At least 10 unique resources or events are displayed in a responsive card format**
+- [x] **There is a unique theme for events or resources relevant to a specific community**
+- [x] **At least 10 unique resources or events are displayed in a responsive card format**
 
 The following **optional** features are implemented:
 
-- [ ] Buttons or links to a related resources are on each card component
-- [ ] The site is responsive for both desktop and mobile formats
+- [x] Buttons or links to a related resources are on each card component
+- [x] The site is responsive for both desktop and mobile formats
 
 The following **additional** features are implemented:
 
-* [ ] List anything else that you added to improve the site's functionality!
+* [x] List anything else that you added to improve the site's functionality!
 
 ## Video Walkthrough
 
@@ -39,7 +39,7 @@ GIF created with ...
 ## Notes
 
 Describe any challenges encountered while building the app.
-
+I was a litle bit confusing to conect components betewn each otehr and with the main app. 
 ## License
 
     Copyright [yyyy] [name of copyright owner]
