@@ -1,9 +1,9 @@
 /* CardGrid.css */
 .card-grid {
-    width: 100%;
+  display: flex;
+  flex-wrap: wrap;
     justify-content: center;
     align-items: center;
-    grid-gap: 20px; /* Spacing between cards */
     padding: 20px;
     flex-direction: row;
   }

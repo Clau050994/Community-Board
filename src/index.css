@@ -13,14 +13,4 @@ html, body {
   height: 100%;
 }
 
-body {
-  background-color: #007bff; /* A nice, vibrant blue color */
-  color: #333; /* Default text color, can be changed as needed */
-  display: flex;
-  justify-content: center;
-  align-items: center;
-}
-
-/* Add additional global styles as needed */
-
 

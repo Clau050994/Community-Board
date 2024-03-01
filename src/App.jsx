@@ -76,7 +76,9 @@ function App() {
 
   return (
     <div className="App">
-      <h1>Tech Talks and Guides</h1>
+      <div className='title'>
+        <h1 className='h1'>Tech Talks and Guides</h1>
+      </div>
       <CardGrid cards={cardsData} />
     </div>
   );
